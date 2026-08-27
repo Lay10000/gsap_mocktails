@@ -17,7 +17,7 @@ const navLinks = [
  },
 ];
 
-const mockTailLists = [
+const mocktailLists = [
  {
 	name: "Carribean",
 	country: "CR",
@@ -134,50 +134,50 @@ const socials = [
  },
 ];
 
-const sliderLists = [
+const allCocktails = [
  {
 	id: 1,
-	name: "Classic Mojito",
+	name: "Passionfruit Dragon",
 	image: "/images/drink1.png",
-	title: "Simple Ingredients, Bold Flavor",
+	title: "It simply spits passionfruit",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "There once was a dragon that didnt spit fire, but only... passionfruit? Anyways, this drink tastes like passionfruit and it's made with... passionfruit.",
  },
  {
 	id: 2,
-	name: "Raspberry Mojito",
+	name: "Pluto",
 	image: "/images/drink2.png",
-	title: "A Zesty Classic That Never Fails",
+	title: "Did somebody say cockt... I mean mocktail?",
 	description:
-	 "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+	 "Pluto is the furthest planet in our solar system, and isn't considered as a planet anymore. Oh, and it's also Mickey Mouses dog btw.",
  },
  {
 	id: 3,
-	name: "Violet Breeze",
+	name: "Chug Jug",
 	image: "/images/drink3.png",
-	title: "Simple Ingredients, Bold Flavor",
+	title: "Low on healt? Try this one",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "Made with flowberry fizz, minis and biggies, the Chug Jug can restore ALL of your health. The catch is, that you have to drink everything in one go.",
  },
  {
 	id: 4,
-	name: "Curacao Mojito",
+	name: "Postbote",
 	image: "/images/drink4.png",
-	title: "Crafted With Care, Poured With Love",
+	title: "Nobody wants that one. Dont take it.",
 	description:
-	 "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+	 "In case you are used to be a Postbote (I dont know the english word) in a cold country, you'll like this one. If not, keep your hands off it!",
  },
 ];
 
 export {
  navLinks,
  cocktailLists,
- mockTailLists,
+ mocktailLists,
  profileLists,
  featureLists,
  goodLists,
  openingHours,
  storeInfo,
  socials,
- sliderLists,
+ allCocktails,
 };

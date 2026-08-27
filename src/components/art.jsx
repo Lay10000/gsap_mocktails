@@ -62,7 +62,7 @@ const Art = () => {
                     <h2 className="will-fade">Sip-Worty Rejection</h2>
                     <div id="masked-content">
                         <h3>Made with water, poured by hands</h3>
-                        <p>What were you expecting?</p>
+                        <p>What else were you expecting?</p>
                     </div>
                 </div>
             </div>
