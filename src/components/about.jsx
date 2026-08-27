@@ -65,17 +65,17 @@ const About = () => {
             <div className="top-grid">
                 <div className="md:col-span-3">
                     <div className="noisy">
-                        <img src="/images/abt1.png" alt="abt1" />
+                        <img src="./images/abt1.png" alt="abt1" />
                     </div>
                 </div>
                 <div className="md:col-span-6">
                     <div className="noisy">
-                        <img src="/images/abt2.png" alt="abt2" />
+                        <img src="./images/abt2.png" alt="abt2" />
                     </div>
                 </div>
                 <div className="md:col-span-3">
                     <div className="noisy">
-                        <img src="/images/abt5.png" alt="abt5" />
+                        <img src="./images/abt5.png" alt="abt5" />
                     </div>
                 </div>
             </div>
@@ -83,12 +83,12 @@ const About = () => {
             <div className="bottom-grid">
                 <div className="md:col-span-8">
                     <div className="noisy">
-                        <img src="/images/abt3.png" alt="abt3" />
+                        <img src="./images/abt3.png" alt="abt3" />
                     </div>
                 </div>
                 <div className="md:col-span-4">
                     <div className="noisy">
-                        <img src="/images/abt4.png" alt="abt4" />
+                        <img src="./images/abt4.png" alt="abt4" />
                     </div>
                 </div>
             </div>

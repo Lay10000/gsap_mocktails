@@ -73,16 +73,16 @@ const cocktailLists = [
 
 const profileLists = [
  {
-	imgPath: "/images/profile1.png",
+	imgPath: "./images/profile1.png",
  },
  {
-	imgPath: "/images/profile2.png",
+	imgPath: "./images/profile2.png",
  },
  {
-	imgPath: "/images/profile3.png",
+	imgPath: "./images/profile3.png",
  },
  {
-	imgPath: "/images/profile4.png",
+	imgPath: "./images/profile4.png",
  },
 ];
 
@@ -119,17 +119,17 @@ const openingHours = [
 const socials = [
  {
 	name: "Instagram",
-	icon: "/images/insta.png",
+	icon: "./images/insta.png",
 	url: "#",
  },
  {
 	name: "X (Twitter)",
-	icon: "/images/x.png",
+	icon: "./images/x.png",
 	url: "#",
  },
  {
 	name: "Facebook",
-	icon: "/images/fb.png",
+	icon: "./images/fb.png",
 	url: "#",
  },
 ];
@@ -138,7 +138,7 @@ const allCocktails = [
  {
 	id: 1,
 	name: "Passionfruit Dragon",
-	image: "/images/drink1.png",
+	image: "./images/drink1.png",
 	title: "It simply spits passionfruit",
 	description:
 	 "There once was a dragon that didnt spit fire, but only... passionfruit? Anyways, this drink tastes like passionfruit and it's made with... passionfruit.",
@@ -146,7 +146,7 @@ const allCocktails = [
  {
 	id: 2,
 	name: "Pluto",
-	image: "/images/drink2.png",
+	image: "./images/drink2.png",
 	title: "Did somebody say cockt... I mean mocktail?",
 	description:
 	 "Pluto is the furthest planet in our solar system, and isn't considered as a planet anymore. Oh, and it's also Mickey Mouses dog btw.",
@@ -154,7 +154,7 @@ const allCocktails = [
  {
 	id: 3,
 	name: "Chug Jug",
-	image: "/images/drink3.png",
+	image: "./images/drink3.png",
 	title: "Low on healt? Try this one",
 	description:
 	 "Made with flowberry fizz, minis and biggies, the Chug Jug can restore ALL of your health. The catch is, that you have to drink everything in one go.",
@@ -162,7 +162,7 @@ const allCocktails = [
  {
 	id: 4,
 	name: "Postbote",
-	image: "/images/drink4.png",
+	image: "./images/drink4.png",
 	title: "Nobody wants that one. Dont take it.",
 	description:
 	 "In case you are used to be a Postbote (I dont know the english word) in a cold country, you'll like this one. If not, keep your hands off it!",
