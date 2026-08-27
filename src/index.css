@@ -91,7 +91,6 @@ body {
         background-image: var(--noise-url);
     }
 
-
     #hero {
         @apply relative z-10 min-h-dvh w-full border border-transparent;
 
