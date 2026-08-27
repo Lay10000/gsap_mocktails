@@ -3,6 +3,7 @@ import { SplitText } from "gsap/all"
 import gsap from "gsap"
 import { useRef } from "react"
 import { useMediaQuery } from "react-responsive"
+import noiseImg from 'src/images/noise.png';
 
 const Hero = () => {
     const videoRef = useRef();

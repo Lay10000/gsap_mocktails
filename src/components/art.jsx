@@ -2,7 +2,8 @@ import { useGSAP } from "@gsap/react"
 import { featureLists, goodLists } from "../../constants"
 import { useMediaQuery } from "react-responsive"
 import gsap from "gsap";
-import maskImageFile from '/src/images/mask-img.png';  
+import maskImageFile from '/src/images/mask-img.png';
+import noiseImg from 'src/images/noise.png';
 
 const Art = () => {
     const isMobile = useMediaQuery({ maxWidth: 767});

@@ -2,6 +2,7 @@ import gsap from "gsap"
 import { useGSAP } from "@gsap/react"
 import { cocktailLists } from "../../constants"
 import { mocktailLists } from "../../constants"
+import noiseImg from 'src/images/noise.png';
 
 const Cocktails = () => {
     useGSAP(() => {
