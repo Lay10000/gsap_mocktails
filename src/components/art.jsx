@@ -45,7 +45,7 @@ const Art = () => {
                     </ul>
 
                     <div className="cocktail-img">
-                        <img src="./images/under-img.jpeg" alt="cocktail" className="abs-center masked-img size-full object-contain"/>
+                        <img src="./images/under-img.jpeg" alt="cocktail" className="abs-center masked-img size-full object-contain" style={{ '--mask-url': `url(${maskImageFile})` }} />
                     </div>
 
                     <ul className="space-y-4 will-fade">
