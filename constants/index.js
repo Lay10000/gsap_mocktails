@@ -17,57 +17,57 @@ const navLinks = [
  },
 ];
 
-const cocktailLists = [
+const mockTailLists = [
  {
-	name: "Chapel Hill Shiraz",
+	name: "Carribean",
+	country: "CR",
+	detail: "Ahoi Matrosen!",
+	price: "$9",
+ },
+ {
+	name: "Starky",
 	country: "AU",
-	detail: "Battle",
+	detail: "Jarvis, clip that",
 	price: "$10",
  },
  {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
- },
- {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
- },
- {
-	name: "Irish Guinness",
+	name: "Pluto",
 	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	detail: "Am I a planet?",
+	price: "$27",
+ }, 
+ {
+	name: "Mickey Mouse",
+	country: "CA",
+	detail: "Oh, dudles!",
+	price: "$99",
  },
 ];
 
-const mockTailLists = [
+const cocktailLists = [
  {
-	name: "Tropical Bloom",
+	name: "Abra Cadabra",
 	country: "US",
-	detail: "Battle",
-	price: "$10",
+	detail: "A magician never reveals his tricks",
+	price: "$007",
  },
  {
-	name: "Passionfruit Mint",
+	name: "Passionfruit Dragon",
 	country: "US",
-	detail: "Battle",
+	detail: "Does that even exist?",
 	price: "$49",
  },
  {
-	name: "Citrus Glow",
+	name: "Postbote",
 	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	detail: "Legendary ref",
+	price: "$1",
  },
  {
-	name: "Lavender Fizz",
+	name: "Chugjug",
 	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	detail: "Not kids friendly though",
+	price: "$100",
  },
 ];
 
