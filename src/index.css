@@ -380,3 +380,15 @@ body {
         }
     }
 }
+
+::selection {
+    background: transparent;
+}
+
+::-moz-selection {
+    background: transparent;
+}
+
+::-webkit-selection {
+    background: transparent;
+}
